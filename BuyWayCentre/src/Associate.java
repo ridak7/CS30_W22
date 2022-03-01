@@ -3,6 +3,9 @@ public class Associate extends Employee
 {
 	private double hourlyPayRate;
 	
+	
+	//Random comment
+	
 	public Associate(String fn, String ln, double rate)
 	{
 		super(fn, ln);
