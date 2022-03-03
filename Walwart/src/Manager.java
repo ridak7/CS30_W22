@@ -1,4 +1,4 @@
-
+//Done
 public class Manager extends Employee 
 {
 	private double yearlySalary;
@@ -19,7 +19,7 @@ public class Manager extends Employee
 	public String toString()//prints Manager Object
 	{
 		return(super.toString() 
-				+", Manager"
+				+", Manager "
 				+ "Salary: "+ yearlySalary );
 	}
 
