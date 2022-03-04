@@ -23,7 +23,7 @@ public class BuyWayCentre
 		Associate emp3 = new Associate("Michael", "Rose", 16.75);
 		
 		Scanner input = new Scanner(System.in);
-		
+		//done
 		String action;
 		int empNum;
 		double payArg;

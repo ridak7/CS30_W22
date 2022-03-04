@@ -3,7 +3,7 @@ public class Manager extends Employee
 {
 	
 	private double yearlySalary;
-	
+	//done
 	public Manager(String fName, String lName, double sal)//Constructor Method
 	{
 		super(fName, lName);
