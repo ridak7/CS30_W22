@@ -109,6 +109,7 @@ public class Demo2 {
 		JLabel imga = new JLabel("");
 		imga.setBounds(23, 339, 519, 209);
 		panel.add(imga);
+		
 		btnNewButton.addActionListener(new ActionListener() 
 		{
 			public void actionPerformed(ActionEvent e) 

@@ -10,15 +10,16 @@ Course: Computer Science 20
 */
 public class TicTacToe 
 {
-
+	String name = "aaaa";
 	public static void main(String[] args) 
-	{
+	{	
+		
+		
 		System.out.println(2 * 3);
 
 	}
 	
 	
-
 }
 /* Screen Dump
 
